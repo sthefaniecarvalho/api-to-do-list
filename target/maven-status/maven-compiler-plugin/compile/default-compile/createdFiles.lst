@@ -1,0 +1,10 @@
+br\com\sthefaniecarvalho\todolist\task\ITaskRepository.class
+br\com\sthefaniecarvalho\todolist\user\IUserRepository.class
+br\com\sthefaniecarvalho\todolist\user\UserModel.class
+br\com\sthefaniecarvalho\todolist\utils\Utils.class
+br\com\sthefaniecarvalho\todolist\errors\ExceptionHandlerController.class
+br\com\sthefaniecarvalho\todolist\task\TaskModel.class
+br\com\sthefaniecarvalho\todolist\task\filter\FilterTaskAuth.class
+br\com\sthefaniecarvalho\todolist\TodolistApplication.class
+br\com\sthefaniecarvalho\todolist\user\UserController.class
+br\com\sthefaniecarvalho\todolist\task\TaskControl.class
